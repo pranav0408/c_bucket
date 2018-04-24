@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1503252095 source:c:\users\acer\desktop\new c\main.c
+	<stdio.h>
+
+1503296690 source:c:\users\acer\desktop\new c\class.c
+	<stdio.h>
+
+1503405712 source:c:\users\acer\desktop\new c\p8.c
+	<stdio.h>
+
+1503405939 source:c:\users\acer\desktop\new c\p9.c
+	<stdio.h>
+
+1503406685 source:c:\users\acer\desktop\new c\p10.c
+	<stdio.h>
+
+1503409022 source:c:\users\acer\desktop\new c\p13.c
+	<stdio.h>
+
+1503413111 source:c:\users\acer\desktop\new c\p15.c
+	<stdio.h>
+
+1503412813 source:c:\users\acer\desktop\new c\p16.c
+	<stdio.h>
+
+1503904715 source:c:\users\acer\desktop\new c\yp1.c
+	<stdio.h>
+	<conio.h>
+
+1504075536 source:c:\users\acer\desktop\new c\yp2.c
+	<stdio.h>
+	<conio.h>
+
+1504076673 source:c:\users\acer\desktop\new c\ifelsegrade.c
+	<stdio.h>
+
+1504506902 source:c:\users\acer\desktop\new c\yp3.c
+	<stdio.h>
+
+1504508651 source:c:\users\acer\desktop\new c\yp4.c
+	<stdio.h>
+
+1504665126 source:c:\users\acer\desktop\new c\pattrn.c
+	<stdio.h>
+
+1505113250 source:c:\users\acer\desktop\new c\exprimnt.c
+	<stdio.h>
+	<math.h>
+
+1505150020 source:c:\users\acer\desktop\new c\infit_triangle.c
+	<stdio.h>
+	<time.h>
+
+1505108906 source:c:\users\acer\desktop\new c\ex.c
+	<stdio.h>
+
+1505066305 source:c:\users\acer\desktop\new c\exxx.c
+	<stdio.h>
+
+1505149029 source:c:\users\acer\desktop\new c\exprmnt.c
+	<stdio.h>
+	<time.h>
+
+1506100876 source:c:\users\acer\desktop\new c\infinitedualtriangle.c
+	<stdio.h>
+	<time.h>
+
+1505221433 source:c:\users\acer\desktop\new c\infinitedoubletrianglesimple.c
+	<stdio.h>
+	<time.h>
+
+1505645174 source:c:\users\acer\desktop\new c\pattern.c
+	<stdio.h>
+
+1505889492 source:c:\users\acer\desktop\new c\c_by_rfrnc.c
+	<stdio.h>
+
+1505892007 source:c:\users\acer\desktop\new c\f_recursion.c
+	<stdio.h>
+
+1506100674 source:c:\users\acer\desktop\new c\rcrsn.c
+	<stdio.h>
+
+1506155895 source:c:\users\acer\desktop\new c\any.c
+	<stdio.h>
+
+1506808013 source:c:\users\acer\desktop\new c\rhyt.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+
+1506879686 source:c:\users\acer\desktop\new c\yyyyy.c
+	<stdio.h>
+
+1507052941 source:c:\users\acer\desktop\new c\op!.c
+	<stdio.h>
+
+1507108455 source:c:\users\acer\desktop\new c\testt.c
+	<stdio.h>
+
+1507570495 source:c:\users\acer\desktop\new c\temp.c
+	<stdio.h>
+
+1509211114 source:c:\users\acer\desktop\new c\u.c
+
+1509345488 source:c:\users\acer\desktop\new c\stringtest.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
